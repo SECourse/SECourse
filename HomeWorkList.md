@@ -2,7 +2,7 @@
  
  
 ##描述一款软件的功能和它的优缺点
-
+[杜旻羲]（https://github.com/Ritahaha/biubiubiu/blob/master/Something%20for%20QQ.md）
 
 ##找一个伙伴，请他描述用户故事（针对任何软件/应用均可）
 
