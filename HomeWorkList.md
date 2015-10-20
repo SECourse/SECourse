@@ -3,6 +3,8 @@
  
 ##描述一款软件的功能和它的优缺点
 
+[郭松源](https://github.com/Adaguoguo/ada1st/blob/master/%E4%BD%9C%E4%B8%9A.md)
+
 
 ##找一个伙伴，请他描述用户故事（针对任何软件/应用均可）
 
