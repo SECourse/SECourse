@@ -2,6 +2,7 @@
  
  
 ##描述一款软件的功能和它的优缺点
+[吴先明]（https://github.com/wxm123456789/-Receipt-box--201434023/blob/master/Receipt-box.md）
 
  
 [徐泽深](https://github.com/futuer2015/study/blob/master/first%20homeword.md) 
