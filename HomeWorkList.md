@@ -11,7 +11,9 @@
 [樊锟](https://github.com/Emily1221/Angela/blob/master/software.md)
  
 [何京忆](https://github.com/901102/A-brief-introduction-to-Kugou.md/blob/master/README.md)
-
+ 
+[陈佳宁]（https://github.com/Bob31/SETest）
+ 
 
 ##找一个伙伴，请他描述用户故事（针对任何软件/应用均可）
 
