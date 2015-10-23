@@ -39,4 +39,4 @@
 [刘文](https://github.com/dbfcb/software-2/blob/master/A%20few%20things%20about%20Mobile%20Banking%20Service.md)
 
 ##找一个伙伴，请他描述用户故事（针对任何软件/应用均可）
-
+[吴先明](https://github.com/wxm123456789/201434023.md/blob/master/吴先明（用户故事）.md)
