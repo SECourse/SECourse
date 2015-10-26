@@ -40,3 +40,5 @@
 
 ##找一个伙伴，请他描述用户故事（针对任何软件/应用均可）
 
+［刘晴］（https://github.com/carolinelllqqq/users-stories/blob/master/用户故事.md）
+
