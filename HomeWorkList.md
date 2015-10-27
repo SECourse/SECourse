@@ -40,3 +40,18 @@
 
 ##找一个伙伴，请他描述用户故事（针对任何软件/应用均可）
 
+[郭松源](https://github.com/Adaguoguo/ada1st/blob/master/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B.md)
+
+[吴先明](https://github.com/wxm123456789/201434023.md/blob/master/吴先明（用户故事）.md)
+
+[刘翠翠](https://github.com/Erin123456/Erin/blob/master/Homework2.md)
+
+[樊锟](https://github.com/Emily1221/the-user-story/blob/master/user%20story.md)
+
+[李梦琪](https://github.com/12345678900000000/Software/blob/master/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B.md)
+
+[刘文](https://github.com/dbfcb/software-2/blob/master/用户故事.md)
+
+[罗卓](https://github.com/2014barbara/Software-Engineering-1/blob/master/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B.md)
+
+[刘晴]（https://github.com/carolinelllqqq/users-stories/blob/master/用户故事.md）
