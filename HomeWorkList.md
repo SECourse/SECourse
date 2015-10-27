@@ -40,3 +40,5 @@
 
 ##找一个伙伴，请他描述用户故事（针对任何软件/应用均可）
 
+
+[郭松源](https://github.com/Adaguoguo/ada1st/blob/master/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B.md)
