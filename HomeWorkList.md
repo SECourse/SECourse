@@ -55,5 +55,5 @@
 [罗卓](https://github.com/2014barbara/Software-Engineering-1/blob/master/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B.md)
 
 [刘晴](https://github.com/carolinelllqqq/users-stories/blob/master/用户故事.md)
-
+[李昕睿](https://github.com/LIXINRUI0801/---/blob/master/README.md)
 
