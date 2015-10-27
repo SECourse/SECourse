@@ -56,4 +56,15 @@
 
 [刘晴](https://github.com/carolinelllqqq/users-stories/blob/master/用户故事.md)
 
+[刘宇鲲](https://github.com/birdie123/-/blob/master/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B.md)
+
+[杜旻羲](https://github.com/Ritahaha/biubiubiu/blob/master/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B.md)
+
+[李昕睿](https://github.com/LIXINRUI0801/---)
+
+[涂宣瑶](https://github.com/Tumipiaoyao/gnocchi/blob/master/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B.md)
+
+[何京忆](https://github.com/901102/Users-stouries/blob/master/README.md)
+
+[陈佳宁](https://github.com/Bob31/SETest/blob/master/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B.md)
 
