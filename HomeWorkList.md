@@ -67,4 +67,7 @@
 [何京忆](https://github.com/901102/Users-stouries/blob/master/README.md)
 
 [陈佳宁](https://github.com/Bob31/SETest/blob/master/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B.md)
-[李婧仪]（https://github.com/dlutljy/my-first-homework/blob/master/lijingyi-homework2.md）
+
+[李婧仪](https://github.com/dlutljy/my-first-homework/blob/master/lijingyi-homework2.md)
+
+[徐泽深](https://github.com/futuer2015/study/blob/master/%E5%BE%90%E6%B3%BD%E6%B7%B1%EF%BC%8C%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B.md)
