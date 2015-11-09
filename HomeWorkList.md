@@ -6,3 +6,6 @@
 
 ##找一个伙伴，请他描述用户故事（针对任何软件/应用均可）
 [李梦琪](https://github.com/12345678900000000/Software/blob/master/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B.md)
+
+##WBS作业
+![李梦琪](https://cloud.githubusercontent.com/assets/14888633/11033521/ce558402-871e-11e5-80cb-87ff4814b5ca.png)
