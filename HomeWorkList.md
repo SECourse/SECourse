@@ -98,5 +98,16 @@
 
 [李昕睿](https://cloud.githubusercontent.com/assets/14888651/11058386/7640feea-87cd-11e5-95ad-2e3b8111851d.png)
 
+[李婧仪](https://github.com/dlutljy/my-first-homework/blob/master/%E6%9D%8E%E5%A9%A7%E4%BB%AAWBS)
+
+[刘晴](https://github.com/carolinelllqqq/-WBS-/blob/master/%E5%88%98%E6%99%B4WBS.md)
+
+[陈佳宁](https://github.com/Bob31/SETest/blob/master/%E9%99%88%E4%BD%B3%E5%AE%81WBS.md)
+
+[罗卓](https://cloud.githubusercontent.com/assets/14888712/11060691/cd158cb8-87dc-11e5-95c9-0b140cdee8f1.png)
+
+[杨作壮](https://cloud.githubusercontent.com/assets/14905446/11063802/fb457d2a-87f3-11e5-891c-da6cefbc7410.png)
+
+[刘翠翠](https://github.com/Erin123456/Erin/blob/master/Picture%20%20%20homework.md)
 
 
