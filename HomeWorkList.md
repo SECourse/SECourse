@@ -110,4 +110,8 @@
 
 [刘翠翠](https://github.com/Erin123456/Erin/blob/master/Picture%20%20%20homework.md)
 
+[涂宣瑶](https://cloud.githubusercontent.com/assets/14888658/11058731/d3a8992e-87cf-11e5-82b7-674643f47df8.jpg)
+
+[陈啟刚](https://cloud.githubusercontent.com/assets/15030300/11066688/2a0d267a-8804-11e5-910c-08ea631bc758.png)
+
 
