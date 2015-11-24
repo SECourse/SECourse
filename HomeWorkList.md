@@ -117,3 +117,6 @@
 [徐泽深](https://cloud.githubusercontent.com/assets/14888581/11090412/9fd3c47e-88ac-11e5-969f-1ac6b3d84109.png)
 
 
+##软件界面设计
+
+[吴先明，刘翠翠，刘宇琨]（https://github.com/wxm123456789/wxmlcc.mds/blob/master/软件界面.md）
