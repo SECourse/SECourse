@@ -116,4 +116,5 @@
 
 [徐泽深](https://cloud.githubusercontent.com/assets/14888581/11090412/9fd3c47e-88ac-11e5-969f-1ac6b3d84109.png)
 
+[吴先明](https://cloud.githubusercontent.com/assets/14888680/11054736/9e38f63c-87aa-11e5-8e40-ef8a22614963.png)
 
