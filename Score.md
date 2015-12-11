@@ -141,7 +141,4 @@
       <td>15</td>
       <td>14</td>
    </tr>
-   <tr>
-      <td></td>
-   </tr>
 </table>
